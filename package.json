@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeamerson/NodeWithTypescript.git"
+    "url": "git+https://github.com/joeamerson/nodeWithMongoDB.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joeamerson/NodeWithTypescript/issues"
+    "url": "https://github.com/joeamerson/nodeWithMongoDB/issues"
   },
-  "homepage": "https://github.com/joeamerson/NodeWithTypescript#readme",
+  "homepage": "https://github.com/joeamerson/nodeWithMongoDB#readme",
   "dependencies": {
     "express": "^4.17.3",
     "joi": "^17.6.0",
