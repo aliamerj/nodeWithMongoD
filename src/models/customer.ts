@@ -7,7 +7,7 @@ type customerType = {
     phone : number,
     isGold : boolean,
 }
-export const Customer = mongoose.model('customer',new mongoose.Schema(
+export const Customer = mongoose.model('Customer',new mongoose.Schema(
     {
     username  : {
         type : String,

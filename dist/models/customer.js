@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.validateCostumer = exports.Customer = void 0;
 const mongoose_1 = __importDefault(require("mongoose"));
 const joi_1 = __importDefault(require("joi"));
-exports.Customer = mongoose_1.default.model('customer', new mongoose_1.default.Schema({
+exports.Customer = mongoose_1.default.model('Customer', new mongoose_1.default.Schema({
     username: {
         type: String,
         required: true,
